@@ -1,0 +1,23 @@
+{
+  "manifest_version": "1.0",
+  "org": "explosion",
+  "repo": "ec2buildwheel",
+  "versions": [
+    {
+      "commit": "0d71d8d2e0f9d9ecd7063b5c13f4edbd2c70a3ba",
+      "parsed_at": "2026-10-28T11:39:39.952582+00:00",
+      "filetree": "filetree/0d71d8d2e0f9d9ecd7063b5c13f4edbd2c70a3ba.nq.gz",
+      "blobs": [
+        "blob/cc0a6ae187877415b59038ece13b10746fca4b7c.nq.gz",
+        "blob/7513363277a75a302e1d9360d824c26c946433f8.nq.gz",
+        "blob/c494ba6d57dea531ef70689efe84d3d5ce0ec9b9.nq.gz",
+        "blob/0e594ecd0048b34fababccf9924c28663639fd41.nq.gz",
+        "blob/f82a2d3b551b7759f5bf76dc29b18cfece300309.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}
